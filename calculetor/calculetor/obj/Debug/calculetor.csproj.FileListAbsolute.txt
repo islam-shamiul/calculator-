@@ -1,0 +1,17 @@
+C:\Users\Himu-PC\Desktop\New folder\Basic_calculator\calculetor\calculetor\bin\Debug\calculetor.exe.config
+C:\Users\Himu-PC\Desktop\New folder\Basic_calculator\calculetor\calculetor\bin\Debug\calculetor.exe
+C:\Users\Himu-PC\Desktop\New folder\Basic_calculator\calculetor\calculetor\bin\Debug\calculetor.pdb
+C:\Users\Himu-PC\Desktop\New folder\Basic_calculator\calculetor\calculetor\obj\Debug\calculetor.csprojAssemblyReference.cache
+C:\Users\Himu-PC\Desktop\New folder\Basic_calculator\calculetor\calculetor\obj\Debug\MainWindow.g.cs
+C:\Users\Himu-PC\Desktop\New folder\Basic_calculator\calculetor\calculetor\obj\Debug\App.g.cs
+C:\Users\Himu-PC\Desktop\New folder\Basic_calculator\calculetor\calculetor\obj\Debug\calculetor_MarkupCompile.cache
+C:\Users\Himu-PC\Desktop\New folder\Basic_calculator\calculetor\calculetor\obj\Debug\calculetor_MarkupCompile.lref
+C:\Users\Himu-PC\Desktop\New folder\Basic_calculator\calculetor\calculetor\obj\Debug\MainWindow.baml
+C:\Users\Himu-PC\Desktop\New folder\Basic_calculator\calculetor\calculetor\obj\Debug\calculetor.g.resources
+C:\Users\Himu-PC\Desktop\New folder\Basic_calculator\calculetor\calculetor\obj\Debug\calculetor.Properties.Resources.resources
+C:\Users\Himu-PC\Desktop\New folder\Basic_calculator\calculetor\calculetor\obj\Debug\calculetor.csproj.GenerateResource.cache
+C:\Users\Himu-PC\Desktop\New folder\Basic_calculator\calculetor\calculetor\obj\Debug\calculetor.csproj.CoreCompileInputs.cache
+C:\Users\Himu-PC\Desktop\New folder\Basic_calculator\calculetor\calculetor\obj\Debug\calculetor.exe
+C:\Users\Himu-PC\Desktop\New folder\Basic_calculator\calculetor\calculetor\obj\Debug\calculetor.pdb
+C:\Users\Himu-PC\Desktop\New folder\Basic_calculator\calculetor\calculetor\bin\Debug\MathParserTK.dll
+C:\Users\Himu-PC\Desktop\New folder\Basic_calculator\calculetor\calculetor\obj\Debug\calculetor.csproj.CopyComplete
